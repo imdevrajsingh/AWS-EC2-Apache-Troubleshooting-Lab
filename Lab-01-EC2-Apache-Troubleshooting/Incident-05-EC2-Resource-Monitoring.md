@@ -153,6 +153,8 @@ After any corrective action:
 
 ![EC2 Resource Monitoring Dashboard](screenshots/AWS%20EC2%20Resource%20Monitoring%20Dashboard.png)
 
+> **Note:** This dashboard is an illustrative visualization created for documentation purposes. Its displayed values are not a verbatim capture of the original terminal output. Refer to the documented investigation results for verified observations.
+
 ## Final Status
 
 **Documentation:** In progress  
