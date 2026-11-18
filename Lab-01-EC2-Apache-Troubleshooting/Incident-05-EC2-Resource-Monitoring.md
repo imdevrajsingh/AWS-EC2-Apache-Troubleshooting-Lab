@@ -147,24 +147,11 @@ After any corrective action:
 - Use actual system evidence before determining root cause.
 - Verify system health after applying corrective actions.
 
-## 12. Terminal Screenshots and Evidence
+## 12.  Evidence
 
-Add genuine terminal screenshots showing:
+### Incident 05 – EC2 Resource Monitoring Summary
 
-1. CPU utilization using `top`.
-2. Memory utilization using `free -h`.
-3. Filesystem utilization using `df -h`.
-4. Any additional troubleshooting and verification performed.
-
-Store the screenshots in:
-
-`Lab-01-EC2-Apache-Troubleshooting/screenshots/`
-
-Suggested screenshot filenames:
-
-- `Incident-05-CPU-Monitoring.png`
-- `Incident-05-Memory-Monitoring.png`
-- `Incident-05-Disk-Monitoring.png`
+![EC2 Resource Monitoring Dashboard](screenshots/AWS%20EC2%20Resource%20Monitoring%20Dashboard.png)
 
 ## Final Status
 
