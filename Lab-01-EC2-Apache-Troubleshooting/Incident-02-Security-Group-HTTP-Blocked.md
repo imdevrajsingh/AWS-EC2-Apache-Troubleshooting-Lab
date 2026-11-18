@@ -76,4 +76,12 @@ The SSH rule remained restricted to My IP.
 - Troubleshooting HTTP connectivity at the AWS network layer.
 - Using a layered troubleshooting approach.
 
+## Evidence
+
+### AWS Security Group HTTP Troubleshooting
+
+![AWS Security Group HTTP Troubleshooting](screenshots/AWS%20Security%20Group%20HTTP%20Troubleshooting%20Dashboard.png)
+
+**Status:** Successfully resolved in the practice environment.
+
 **Status:** Successfully resolved in the practice environment.
