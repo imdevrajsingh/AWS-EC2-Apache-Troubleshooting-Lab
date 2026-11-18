@@ -101,4 +101,11 @@ The test webpage was also verified in the browser.
 - Inspecting Apache error logs.
 - Understanding the relationship between Linux permissions and web server access.
 
+## Evidence
+
+### Apache HTTP 403 – File Permission Troubleshooting
+
+![Apache 403 Troubleshooting](screenshots/EC2%20Apache%20403%20Troubleshooting%20Dashboard.png)
+
+
 **Status:** Successfully resolved in the practice environment.
