@@ -66,4 +66,10 @@ HTTP/1.1 200 OK
 - Starting a stopped web server.
 - Verifying service recovery using curl.
 
+## Evidence
+
+### Apache Service Failure and Recovery
+
+![Apache troubleshooting on Ubuntu EC2](screenshots/Apache%20Troubleshooting%20on%20Ubuntu%20EC2.png)
+
 **Status:** Successfully resolved in the practice environment.
