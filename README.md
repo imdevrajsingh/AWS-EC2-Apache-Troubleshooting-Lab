@@ -8,8 +8,7 @@ This project demonstrates hands-on troubleshooting of common web server and infr
 
 It includes five practical scenarios covering Apache service management, network access, Linux file permissions, configuration validation and EC2 resource monitoring.
 
-Each incident documents the investigation process, findings, troubleshooting commands and verification results.
-
+Each incident documents the investigation process, findings, troubleshooting commands and relevant validation or monitoring results.
 
 ## Environment
 
