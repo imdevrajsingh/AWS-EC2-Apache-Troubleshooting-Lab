@@ -115,9 +115,9 @@ Summarize the evidence collected during the investigation.
 
 | Resource | Command | Finding |
 |---|---|---|
-| CPU | `top` | Pending verification |
-| Memory | `free -h` | Pending verification |
-| Disk | `df -h` | Pending verification |
+| CPU | `top` | Approximately 99.7% idle; low load average |
+| Memory | `free -h` | 609 MiB available; 0 swap |
+| Disk | `df -h` | 40% utilized; 4.1 GB available |
 
 ## 8. Root Cause Analysis
 
