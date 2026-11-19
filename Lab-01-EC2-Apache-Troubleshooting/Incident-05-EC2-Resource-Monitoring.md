@@ -170,11 +170,16 @@ After any corrective action:
 
 ## Final Status
 
-Documentation: Completed
-CPU investigation: Completed
-Memory investigation: Completed
-Disk investigation: Completed
-Root cause: Not established
-Corrective action: Not required; no confirmed resource issue identified
+**Documentation:** Completed
+
+**CPU investigation:** Completed
+
+**Memory investigation:** Completed
+
+**Disk investigation:** Completed
+
+**Root cause:** Not established
+
+**Corrective action:** Not required; no confirmed resource issue identified
 
 This incident demonstrates the process of monitoring EC2 resources and investigating potential infrastructure performance issues using Linux commands.
