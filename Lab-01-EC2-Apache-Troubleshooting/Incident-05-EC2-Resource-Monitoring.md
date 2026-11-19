@@ -170,11 +170,11 @@ After any corrective action:
 
 ## Final Status
 
-**Documentation:** In progress  
-**CPU investigation:** Pending evidence verification  
-**Memory investigation:** Pending evidence verification  
-**Disk investigation:** Pending evidence verification  
-**Root cause:** Not established  
-**Corrective action:** Not applicable until a confirmed issue is identified
+Documentation: Completed
+CPU investigation: Completed
+Memory investigation: Completed
+Disk investigation: Completed
+Root cause: Not established
+Corrective action: Not required; no confirmed resource issue identified
 
 This incident demonstrates the process of monitoring EC2 resources and investigating potential infrastructure performance issues using Linux commands.
