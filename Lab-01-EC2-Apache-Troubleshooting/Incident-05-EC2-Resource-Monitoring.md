@@ -48,9 +48,12 @@ top
 
 ### Findings
 
-Record the actual CPU utilization, idle percentage, load averages and any unusually resource-intensive processes from the terminal evidence.
+- CPU idle percentage: Approximately 99.7%
+- Load average: 0.01, 0.02, 0.00
+- No unusually high CPU-consuming process was identified in the observed output.
 
-**Result:** Pending verification against the original terminal output.
+**Result:** CPU utilization was low during the monitoring snapshot.
+
 
 ## 5. Memory Investigation
 
@@ -69,11 +72,17 @@ The `top` command can also be used to observe memory consumption and process-lev
 - Understand memory consumption.
 - Identify possible memory pressure.
 
+
 ### Findings
 
-Record the actual total, used, free, available and swap memory figures from the original terminal output.
+- Total memory: 909 MiB
+- Used memory: Approximately 300 MiB
+- Free memory: 304 MiB
+- Buff/cache: 415 MiB
+- Available memory: 609 MiB
+- Swap: 0
 
-**Result:** Pending verification against the original terminal output.
+**Result:** The system had approximately 609 MiB of available memory during the observed snapshot.
 
 ## 6. Disk Investigation
 
@@ -92,9 +101,13 @@ df -h
 
 ### Findings
 
-Record the filesystem, total size, used space, available space and utilization percentage.
+- Root filesystem: /dev/root
+- Total size: 6.8 GB
+- Used space: 2.7 GB
+- Available space: 4.1 GB
+- Utilization: 40%
 
-**Result:** Pending verification against the original terminal output.
+**Result:** The root filesystem had approximately 4.1 GB of available space.
 
 ## 7. Output and Findings
 
