@@ -21,13 +21,15 @@ This lab covers five practical troubleshooting scenarios involving Linux service
 
 ## Lab Incidents
 
+
 | Incident | Scenario | Result |
 |---|---|---|
-| 01 | Apache service stopped | Resolved |
-| 02 | Security Group blocking HTTP | Resolved |
-| 03 | HTTP 403 — file permissions | Resolved |
-| 04 | Apache configuration syntax error | Resolved |
-| 05 | EC2 CPU, RAM and disk investigation | Investigation completed |
+| 01 | [Apache Service Failure](Incident-01-Apache-Service-Failure.md) | Resolved |
+| 02 | [Security Group Blocking HTTP](Incident-02-Security-Group-HTTP-Blocked.md) | Resolved |
+| 03 | [HTTP 403 – File Permissions](Incident-03-Apache-File-Permissions-403.md) | Resolved |
+| 04 | [Apache Configuration Error](Incident-04-Apache-Configuration-Error.md) | Resolved |
+| 05 | [EC2 Resource Monitoring](Incident-05-EC2-Resource-Monitoring.md) | Investigation completed |
+
 
 ## Troubleshooting Skills
 
